@@ -1,2 +1,1 @@
-# -AlexDk78
-config_account
+# Hello, everyone!
