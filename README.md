@@ -32,9 +32,9 @@
 
 ## Education
 
-- 📖 **Faculty of Civil Engineering, Construction of bridges and tunnels**\
+- 📖 **Master, Faculty of Civil Engineering, Construction of bridges and tunnels**\
 📆 September 2006 - July 2011\
-📍 **Master, Saint Petersburg State University of Architecture and Civil Engineering**
+📍 **Saint Petersburg State University of Architecture and Civil Engineering** - St.Petersburg, RU
 
 
 
