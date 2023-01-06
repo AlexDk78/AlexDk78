@@ -1,4 +1,4 @@
-###👋  Hi, I’m Alexei.
+### 👋  Hi, I’m Alexei.
 
 👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
 
