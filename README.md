@@ -12,10 +12,6 @@
 </p>
 
 <p align='center'>
-  🤝  Best wishes!
-</p>
-
-<p align='center'>
   
   <a href="https://t.me/Alex_dk78">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -31,3 +27,23 @@
   
 </p>
 
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📖 **Faculty of Civil Engineering, Construction of bridges and tunnels**\
+📆 September 2006 - July 2011\
+📍 **Master, Saint Petersburg State University of Architecture and Civil Engineering**
+
+
+
+
+.
+
+
+
+
+<p align='center'>
+  🤝  Best wishes!
+</p>
