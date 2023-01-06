@@ -2,7 +2,10 @@
   Hi there 👋 I'm Alexei :)
 </h1>
 
-👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
+<p align='center'>
+  👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
+</p>
+
 
 💪  In this account I will upload my pet-projects, some information about myself and my education (courses, excersises etc.).
 
