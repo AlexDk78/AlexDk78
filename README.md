@@ -51,7 +51,7 @@
 
 - 👨‍💻 **Big Data Analyst (Data Scientist) Student at ITMO University**\
 📆 September 2022 - December 2022\
-🛠 Stack: Databases (Oracle, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS Azure ML Studio, Machine learning algorithms (K-NN, K-Means, regressions, SVM, decision trees, random forest, ensembles), Neural networks (Tensorflow, Keras)..
+🛠 Stack: Databases (Oracle, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS Azure ML Studio, Machine learning algorithms (K-NN, K-Means, regressions, SVM, decision trees, random forest, ensembles), Neural networks (Tensorflow, Keras).
 
 </details>
 
