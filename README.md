@@ -1,7 +1,6 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexei :)
+  Hi there 👋 I'm Alexei
 </h1>
-
 <p align='center'>
   👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
 </p>
