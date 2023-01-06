@@ -1,4 +1,7 @@
-### Hi👋, I’m Alexei.
+@@ -5,7 +5,7 @@
+</h1>
+
+<p align='center'>
 
 
 👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
