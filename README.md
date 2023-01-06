@@ -11,4 +11,4 @@
 
 🤝  Best wishes!
 
-!(https://github-readme-stats.vercel.app/api?username=AlexDk78)
+!https://github-readme-stats.vercel.app/api?username=AlexDk78
