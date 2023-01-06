@@ -42,6 +42,12 @@
 📆 October 2014 - Present\
 🛠 I was involved in implementation of Kanban and Lean technologies, and controlling methods of the production processes. Under my monitoring, a number of factories and buildings were build, maintained and upgraded.
 
+
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+
+
 - 👨‍💻 **Big Data Analyst (Data Scientist) Student at ITMO University**\
 📆 September 2022 - December 2022\
 🛠 Stack: Databases (Oracle, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS Azure ML Studio, Machine learning algorithms (K-NN, K-Means, regressions, SVM, decision trees, random forest, ensembles), Neural networks (Tensorflow, Keras)..
