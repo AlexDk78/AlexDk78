@@ -37,12 +37,15 @@
 📍 **Saint-Petersburg State University of Architecture and Civil Engineering** - St.Petersburg, RU
 
 ## Experience
+<img align="right" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+
 
 - 👨‍💻 **Engineer at Central Design Bureau for Marine Engineering "Rubin"**\
 📆 October 2014 - Present\
 🛠 I was involved in implementation of Kanban and Lean technologies, and controlling methods of the production processes. Under my monitoring, a number of factories and buildings were build, maintained and upgraded.
 
-
+<img align="right" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
