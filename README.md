@@ -1,5 +1,5 @@
 ### Hi👋, I’m Alexei.
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}" />
+
 
 👀  I'm interested in Data Sciense, Data Analysis and a little bit in BI analysis.
 
@@ -10,5 +10,3 @@
 💬  You can contact me with any questions via e-mail: liatamee@gmail.com or telegram: https://t.me/Alex_dk78
 
 🤝  Best wishes!
-
-https://github-readme-stats.vercel.app/api?username=AlexDk78
