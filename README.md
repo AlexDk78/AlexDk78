@@ -10,9 +10,7 @@
 <p align='center'>
   🙋‍♂️  I’m looking to collaborate on simple/beginner-friendly Data Sciense/ML projects with Python implementation.
 </p>
-<p align='center'>
-  💬  You can contact me with any questions via e-mail: liatamee@gmail.com or telegram: https://t.me/Alex_dk78
-</p>
+
 <p align='center'>
   🤝  Best wishes!
 </p>
