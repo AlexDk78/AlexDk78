@@ -57,6 +57,6 @@
   🤝  Best wishes!
 </p>
 <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=AlexDk78&style=plastic" />
+   <img src="https://komarev.com/ghpvc/?username=AlexDk78&style=flat-square" />
 </p>
 
