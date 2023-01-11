@@ -57,6 +57,6 @@
   🤝  Best wishes!
 </p>
 <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=AlexDk78&label=PROFILE+VIEWS)" />
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic" />
 </p>
 
