@@ -56,6 +56,8 @@
 <p align='center'>
   🤝  Best wishes!
 </p>
-<center>
+<p align='center'>
+   <img src="https://komarev.com/ghpvc/?username=AlexDk78&label=PROFILE+VIEWS)" />
+</p>
 ![](https://komarev.com/ghpvc/?username=AlexDk78&label=PROFILE+VIEWS)
-</center>
+
