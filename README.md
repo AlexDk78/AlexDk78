@@ -56,5 +56,6 @@
 <p align='center'>
   🤝  Best wishes!
 </p>
-
-![](https://komarev.com/ghpvc/?username=AlexDk78&style=flat-square)
+<center>
+![](https://komarev.com/ghpvc/?username=AlexDk78&label=PROFILE+VIEWS)
+</center>
