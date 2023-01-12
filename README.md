@@ -16,7 +16,7 @@
   <a href="https://t.me/Alex_dk78">
    <img src="img/Telegram-2CA5E0.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alexei-borovoy-316a3b237/">
+  <a href="https://www.linkedin.com/in/aborovoi/">
     <img src="img/linkedin-0077B5.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:aborovoi@proton.me">
