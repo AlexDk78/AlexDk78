@@ -8,7 +8,7 @@
   💪  In this account I will upload my pet-projects, some information about myself and my education (courses, excersises etc.).
 </p>
 <p align='center'>
-  🙋‍♂️  I’m looking to collaborate on simple/beginner-friendly Data Sciense/ML projects with Python implementation.
+  🙋‍♂️  I’m looking to collaborate on simple/beginner-friendly Data Analysis/Product Analysis/Data Sciense/ML projects with Python implementation.
 </p>
 
 <p align='center'>
