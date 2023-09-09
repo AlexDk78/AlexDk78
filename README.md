@@ -2,7 +2,7 @@
   Hi there 👋 I'm Alexei
 </h1>
 <p align='center'>
-  👀  I'm interested in Data Analysis and Product Analysis.
+  👀  I'm interested in Data Analysis, Data engineering and Product Analysis.
 </p>
 <p align='center'>
   💪  In this account I will upload my pet-projects, some information about myself and my education (courses, excersises etc.).
@@ -39,7 +39,7 @@
 <img align="right" src="img/Microsoft_Office-D83B01.svg" />
 
 
-- 👨‍💻 **Engineer at Central Design Bureau for Marine Engineering "Rubin"**\
+- 👨‍💻 **Project manager at Central Design Bureau for Marine Engineering "Rubin"**\
 📆 October 2014 - Present\
 🛠 I was involved in implementation of Kanban and Lean technologies, and controlling methods of the production processes. Under my monitoring, a number of factories and buildings were build, maintained and upgraded.
 
