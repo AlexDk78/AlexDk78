@@ -35,6 +35,7 @@
 📍 **Saint-Petersburg State University of Architecture and Civil Engineering** - St.Petersburg, RU
 
 ## Experience
+
 <img align="right" src="img/Microsoft_Excel-217346.svg" />
 <img align="right" src="img/Microsoft_Office-D83B01.svg" />
 
@@ -51,6 +52,7 @@
 Main training topics: Python for data analysis, SQL (Clickhouse), Statistics, Product analytics, AB tests, Visualisation (Tableau), Airflow.
 
 <img align="right" src="img/Pandas-2C2D72.svg" />
+
 - 👨‍💻 **Product Analyst (Student) at Tinkoff Education"**\
 📆 February 2023 - June 2023
 🛠 Performed data collection and analysis (PostgreSQL and Python (psycopg2)), cleaned and processed data (Pandas), visualised (Plotly). 
