@@ -47,10 +47,27 @@
 <img align="right" src="img/PostgreSQL-316192.svg" />
 <img align="right" src="img/Python-FFD43B.svg" />
 
+- 👨‍💻 **Data Analyst (Student) at Karpov.Courses"**\
+📆 July 2023 - Present\
+🛠 Training on the Data Analyst course in order to generalise previously acquired skills and gain additional knowledge. 
+Main training topics: Python for data analysis, SQL (Clickhouse), Statistics, Product analytics, AB tests, Visualisation (Tableau), Airflow.
+
+<img align="right" src="img/Tableau-E97627.svg" />
+<img align="right" src="img/Airflow-017CEE.svg" />
+
+- 👨‍💻 **Product Analyst (Student) at Tinkoff Education"**\
+📆 February 2023 - June 2023
+🛠 Performed data collection and analysis (PostgreSQL and Python (psycopg2)), cleaned and processed data (Pandas), visualised (Plotly). 
+Formulated product hypotheses, produced A/B test design, selected statistical criteria, interpreted results, formulated conclusions.
+Built machine learning models (Logistic Regression and Random Forest) for binary classification.
+
+<img align="right" src="img/Pandas-2C2D72.svg" />
+
 - 👨‍💻 **Big Data Analyst (Data Scientist) Student at ITMO University**\
 📆 September 2022 - December 2022\
 🛠 Stack: Databases (Oracle, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS Azure ML Studio, Machine learning algorithms (K-NN, K-Means, regressions, SVM, decision trees, random forest, ensembles), Neural networks (Tensorflow, Keras).
-
+Solved a business problem of an existing online spare parts shop: Classify customers by order entry point (Store website/Avito/Yandex/E-mail newsletter/cold calls, etc.).
+Performed analysis of the shop database for 2022 (Excel/Python cleanup and preparation). Built 5 machine learning models for multi-class classification (Scikit-learn). Performed hyperparameter selection of the modalities. Compared the quality metrics of the models. Visualised the results (Seaborn). Formulated conclusions.
 </details>
 
 <p align='center'>
