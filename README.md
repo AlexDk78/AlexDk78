@@ -19,8 +19,8 @@
   <a href="https://www.linkedin.com/in/aborovoi/">
     <img src="img/linkedin-0077B5.svg" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:aborovoi@proton.me">
-    <img src="img/ProtonMail-8B89CC.svg" />
+  <a href="mailto:aborovoi88@gmail.com">
+    <img src="img/Gmail-D14836.svg" />
   </a>&nbsp;&nbsp;
   
 </p>
@@ -44,7 +44,7 @@
 🛠 I was involved in implementation of Kanban and Lean technologies, and controlling methods of the production processes. Under my monitoring, a number of factories and buildings were build, maintained and upgraded.
 
 <img align="right" src="img/scikit_learn-F7931E.svg" />
-<img align="right" src="img/Oracle-F80000.svg" />
+<img align="right" src="img/PostgreSQL-316192.svg" />
 <img align="right" src="img/Python-FFD43B.svg" />
 
 - 👨‍💻 **Big Data Analyst (Data Scientist) Student at ITMO University**\
