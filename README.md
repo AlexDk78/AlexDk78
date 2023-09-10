@@ -43,10 +43,6 @@
 📆 October 2014 - Present\
 🛠 I was involved in implementation of Kanban and Lean technologies, and controlling methods of the production processes. Under my monitoring, a number of factories and buildings were build, maintained and upgraded.
 
-<img align="right" src="img/scikit_learn-F7931E.svg" />
-<img align="right" src="img/PostgreSQL-316192.svg" />
-<img align="right" src="img/Python-FFD43B.svg" />
-
 - 👨‍💻 **Data Analyst (Student) at Karpov.Courses"**\
 📆 July 2023 - Present\
 🛠 Training on the Data Analyst course in order to generalise previously acquired skills and gain additional knowledge. 
@@ -68,6 +64,10 @@ Built machine learning models (Logistic Regression and Random Forest) for binary
 🛠 Stack: Databases (Oracle, PostgreSQL, MongoDB, Redis, Cassandra, Neo4j), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), MS Azure ML Studio, Machine learning algorithms (K-NN, K-Means, regressions, SVM, decision trees, random forest, ensembles), Neural networks (Tensorflow, Keras).
 Solved a business problem of an existing online spare parts shop: Classify customers by order entry point (Store website/Avito/Yandex/E-mail newsletter/cold calls, etc.).
 Performed analysis of the shop database for 2022 (Excel/Python cleanup and preparation). Built 5 machine learning models for multi-class classification (Scikit-learn). Performed hyperparameter selection of the modalities. Compared the quality metrics of the models. Visualised the results (Seaborn). Formulated conclusions.
+
+<img align="right" src="img/scikit_learn-F7931E.svg" />
+<img align="right" src="img/PostgreSQL-316192.svg" />
+<img align="right" src="img/Python-FFD43B.svg" />
 </details>
 
 <p align='center'>
