@@ -54,7 +54,7 @@ Main training topics: Python for data analysis, SQL (Clickhouse), Statistics, Pr
 <img align="right" src="img/Pandas-2C2D72.svg" />
 
 - 👨‍💻 **Product Analyst (Student) at Tinkoff Education"**\
-📆 February 2023 - June 2023
+📆 February 2023 - June 2023\
 🛠 Performed data collection and analysis (PostgreSQL and Python (psycopg2)), cleaned and processed data (Pandas), visualised (Plotly). 
 Formulated product hypotheses, produced A/B test design, selected statistical criteria, interpreted results, formulated conclusions.
 Built machine learning models (Logistic Regression and Random Forest) for binary classification.
